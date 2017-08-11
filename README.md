@@ -12,10 +12,10 @@ https://turing.iimas.unam.mx/~ivanvladimir/page/curso_rpyoa
 
 ## Generalidades Python
 
-- Lenguage interpretado
-- Multiparadigma
-    -- Orientado a Objetos
-    -- Imperativo
-    -- Funcional
-- Usa tipado dinamico
-- Indentacion
+### Lenguage interpretado
+### Multiparadigma
+- Orientado a Objetos
+- Imperativo
+- Funcional
+### Usa tipado dinamico
+### Indentacion

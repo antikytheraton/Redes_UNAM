@@ -8,14 +8,14 @@ Martes:  14:00 - 16:00\
 
 ## Pagina del curso
 
-http://turing.iimas.unam.mx/~ivanvladimir/page/curso_rpyaa
+https://turing.iimas.unam.mx/~ivanvladimir/page/curso_rpyoa
 
 ## Generalidades Python
 
 - Lenguage interpretado
 - Multiparadigma
-    ** Orientado a Objetos
-    ** Imperativo
-    ** Funcional
+    -- Orientado a Objetos
+    -- Imperativo
+    -- Funcional
 - Usa tipado dinamico
 - Indentacion

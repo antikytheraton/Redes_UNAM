@@ -1,6 +1,6 @@
 # Clase Redes
 
-Martes:  14:00 - 16:00\
+Martes:  14:00 - 16:00
 
 - Norma
 - nvth_28@ciencias.unam.mx
